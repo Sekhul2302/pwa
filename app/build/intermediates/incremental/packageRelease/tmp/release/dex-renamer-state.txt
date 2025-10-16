@@ -1,4 +1,4 @@
-#Thu Oct 16 14:28:54 WIB 2025
+#Thu Oct 16 14:54:46 WIB 2025
 base.0=D\:\\PROJECT_COBA\\PWA\\pwa\\app\\build\\intermediates\\dex\\release\\minifyReleaseWithR8\\classes.dex
 renamed.0=classes.dex
 path.0=classes.dex
